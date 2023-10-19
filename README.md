@@ -1,4 +1,4 @@
-https://aman5680.github.io/green-india-/
+
 # Green India 
 This website generates certificate for the user who contribute to enviroment by planting.
 
